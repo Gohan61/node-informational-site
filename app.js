@@ -16,7 +16,7 @@ app.get("/contact-me", function (req, res) {
 });
 
 app.use(function (req, res) {
-  res.sendFile("./pages/404.html", { root: __dirname });
+  res.status(404).sendFile("./pages/404.html", { root: __dirname });
 });
 
 app.listen(port, function () {});
