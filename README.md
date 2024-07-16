@@ -6,7 +6,7 @@ This project uses HTML and Node.js to practice setting up routes and sending fil
 
 This project is build according to the specification of the [Basic Informational Site lesson](https://www.theodinproject.com/lessons/nodejs-basic-informational-site)
 
-![Informational Site](./node-informational-display.png)
+![Informational Site](./node-information-display.png)
 
 ## Run locally
 
